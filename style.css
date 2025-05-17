@@ -12,6 +12,7 @@ body {
   font-family: "Space Grotesk", sans-serif;
   /* padding: 30px 90px 30px; */
   overflow-x: hidden;
+  margin: 30px;
 }
 
 .wrapper {
