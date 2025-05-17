@@ -302,4 +302,6 @@ nav h2:hover {
   display: flex;
   gap: 3%;
   padding-top: 5%;
+  margin: 20px 0;
+  font-size: 30px;
 }
