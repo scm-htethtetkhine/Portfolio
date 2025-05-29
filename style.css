@@ -20,6 +20,8 @@ body {
 .wrapper {
   width: 80%;
   margin: 0 auto;
+  background-color: #4ce19e;
+  font-size: 30px;
 }
 
 nav h2 {
